@@ -1,0 +1,84 @@
+{
+   "checksum": "277b436de5f96896e66d0a4f5e840d64",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13379768699775838",
+            "date_last_used": "0",
+            "guid": "af83a0a5-1a76-4fbd-9909-556bede31d28",
+            "id": "9",
+            "name": "Amazon.com - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13379768699775756",
+            "date_last_used": "0",
+            "guid": "9f829c3e-7e50-466a-86da-de13aa67a9e1",
+            "id": "8",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13379768699775640",
+            "date_last_used": "0",
+            "guid": "3062cddc-c9a7-4bbf-9665-768af15688ea",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13379768699774848",
+            "date_last_used": "0",
+            "guid": "b8e8f1be-e2b1-4916-a1d5-0d5be5d35188",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         } ],
+         "date_added": "13379768699605242",
+         "date_last_used": "0",
+         "date_modified": "13379768699775838",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13379768699605244",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13379768699605245",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCKdfoQeUAQAAKg4QABgBIAAoBTAAOABAABIAKhh1V2VmaHRpdE9zUXQxOXc1WTY0TjlRPT1IA6AGDBKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRjMzBjNTVjYi1kMmU4LTU1ZjItYjU5Mi00YzAzYjRlOGViMjIYACAAKAAw7+a89cwxOIbuvPXMMUCG7rz1zDFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZDMwYjk5MDctYTkyZS01YmRhLWEwYWItYTlmYzIyOTY3ZmE0GAAgACgAMPDmvPXMMTi87rz1zDFAvO689cwxShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGVlZjBjNGNlLWJlZTQtNWExYy1iYTZmLWZjYzM5ZTI5OTkxNRgAIAAoADD15rz1zDE4xe+89cwxQMXvvPXMMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
