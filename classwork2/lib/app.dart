@@ -17,7 +17,17 @@ class App extends StatelessWidget {
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Kabita',
-        home: DashboardView(),
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+          appBarTheme: const AppBarTheme(
+            color: Colors.blueAccent,
+            centerTitle: true,
+          ),
+          textTheme: const TextTheme(
+            bodyMedium: TextStyle(fontSize: 16),
+          ),
+        ),
+        home: const DashboardView(),
       ),
     );
   }

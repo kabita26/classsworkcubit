@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'area_view.dart';
 import 'simple_interest_view.dart';
+import 'volume_view.dart';
 
 class DashboardView extends StatelessWidget {
   const DashboardView({super.key});
@@ -50,6 +51,23 @@ class DashboardView extends StatelessWidget {
                 children: const <Widget>[
                   Icon(Icons.monetization_on, size: 48),
                   Text('Simple Interest'),
+                ],
+              ),
+            ),
+          ),
+          Card(
+            child: InkWell(
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (_) => VolumeView()), // Navigate to VolumeView
+                );
+              },
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: const <Widget>[
+                  Icon(Icons.science, size: 48), // Replace with a relevant icon
+                  Text('Volume of Cylinder'),
                 ],
               ),
             ),

@@ -1,4 +1,3 @@
-
 import 'package:bloc_test/cubit/area_cubit.dart';
 import 'package:bloc_test/cubit/simple_interest_cubit.dart';
 import 'package:bloc_test/view/area_view.dart';
@@ -8,7 +7,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 class DashboardCubit extends Cubit<void> {
   DashboardCubit(
-    this. _interestCubit,
+    this._interestCubit,
     this._areaCubit,
   ) : super(null);
 
@@ -26,8 +25,6 @@ class DashboardCubit extends Cubit<void> {
       ),
     );
   }
-
-  
 
   void openSimpleInterestView(BuildContext context) {
     Navigator.push(
