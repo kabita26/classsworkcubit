@@ -93,7 +93,7 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///C:/Users/User/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1",
+      "rootUri": "file:///C:/Users/User/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     },
@@ -188,13 +188,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "classwork2",
+      "name": "bloc_test",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2024-12-27T10:24:35.960536Z",
+  "generated": "2024-12-27T10:49:41.782430Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///C:/flutter",
